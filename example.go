@@ -1,3 +1,3 @@
 package multimodule
 
-const Constant = "1.0"
+const Constant = "1.1"
